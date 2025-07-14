@@ -1,17 +1,19 @@
 body {
-  background-color: #f8f3ef;
-  color: #3e2c23;
+  background-color: #ffe8ed;
+  color: #c5ac9f;
   font-family: 'Segoe UI', sans-serif;
 }
 .navbar {
-  background-color: #6f4e37;
+  background-color: #daf2ff;
 }
 .navbar-brand, .nav-link {
-  color: #fff !important;
+  color: #f0c2ff !important;
   font-weight: bold;
+  font-family:"Brush Script MT", cursive ; 
+  font-size:xx-large;
 }
 .hero {
-  background-color: #d6ccc2;
+  background-color: #fff8d6;
   padding: 60px 20px;
   text-align: center;
 }
@@ -27,7 +29,7 @@ body {
   margin-bottom: 15px;
 }
 footer {
-  background-color: #6f4e37;
+  background-color: #f2e0f9;
   color: white;
   padding: 20px 10px;
   text-align: center;
